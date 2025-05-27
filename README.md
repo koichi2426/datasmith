@@ -7,5 +7,6 @@
 - LLMによる自動ラベル付与
 
 # プロトタイプ
+![image](https://github.com/user-attachments/assets/e6872780-9e7f-4296-8050-03225345d234)
 
 # 設計図
